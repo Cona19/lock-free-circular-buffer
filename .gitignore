@@ -76,3 +76,4 @@
 
 terminal.glue
 .DS_Store
+cscope*
