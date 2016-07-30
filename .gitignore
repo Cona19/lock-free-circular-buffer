@@ -74,6 +74,5 @@
 *.out
 *.app
 
-bin
 terminal.glue
-.DS_STORE
+.DS_Store
